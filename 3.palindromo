@@ -1,0 +1,6 @@
+/*
+    * Enunciado: Escribir una funcion que reciba un texto y retorne si es verdadero o falso (Boolean) si es que es o no un palíndromo.
+    * PALÍNDROMO: Es una palabra o expresión que se lee igual ya sea de izquierda a derecha o de derecha a izquierda.
+    * No se consideran los espacios, signos ni tíldes.
+
+*/
