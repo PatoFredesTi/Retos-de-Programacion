@@ -1,6 +1,10 @@
-//Crea un bucle 'for' que imprime los números de 1 al 100. Para los múltiplos de 3 imprime la palabra "Fizz" en vez del número 
-//y para los múltiplos de 5 imprime "Buzz". Para los números que son múltiplos de 3 y de 5, imprime “FizzBuzz”.
-
+/*
+    * Enunciado: Se debe crear un programa que muestre por consola los numeros de 1 a 100 (Ambos incluidos)
+    * sustituyendo los siguientes numeros:
+    * - Multiplos de 3 por 'fizz'.
+    * - Multiplos de 5 por 'buzz'.
+    * - Multiplos de 3 y de 5 a la vez por 'FIZZBUZZ'
+*/
 for (let i = 1; i < 100; i++){
     if (i % 3 === 0 && i % 5 === 0){
         console.log(`${i} FIZZBUZZ`)
