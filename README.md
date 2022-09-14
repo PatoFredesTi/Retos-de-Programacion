@@ -1,3 +1,11 @@
-En este Repo ire almacenando distintos Retos de programacion con los que me tope en las distintas entrevistas laborales que di. ⚔
-1. FIZZBUZZ.
-2. ¿Es Primo?.
+
+⚔⚔⚔ In this repo I will be uploading different programming challenges ⚔⚔⚔
+
+
+
+
+| # Day  |                                                                       Topics                                                                     |
+| -----  | :----------------------------------------------------------------------------------------------------------------------------------------------: |
+|   1    |  FIZZ BUZZ   - 07/09/2022                                                                                                                        |
+|   2    |  ¿Es Primo?  - 14/09/2022                                                                                                                        |
+|   3    |  PALINDROMO  - 21/09/2022                                                                                                                        |
